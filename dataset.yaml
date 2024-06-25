@@ -1,0 +1,6 @@
+train: /content/yolo_data/images/train  # train images 
+val: /content/yolo_data/images/val # val images 
+
+# Classes
+nc: 2  # number of classes
+names: ['player','football']  # class names
